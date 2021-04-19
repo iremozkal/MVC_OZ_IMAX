@@ -1,0 +1,24 @@
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Dal.dll.config
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Dal.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Dal.pdb
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\EntityFramework.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Data.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Data.pdb
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\EntityFramework.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\obj\Debug\OZ_IMAX.Dal.csprojResolveAssemblyReference.cache
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\obj\Debug\OZ_IMAX.Dal.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_IMAX\OZ_IMAX.Dal\obj\Debug\OZ_IMAX.Dal.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Dal.dll.config
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Dal.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Dal.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\EntityFramework.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Data.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\OZ_IMAX.Data.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\EntityFramework.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\obj\Debug\OZ_IMAX.Dal.csprojResolveAssemblyReference.cache
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\obj\Debug\OZ_IMAX.Dal.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\OZ_IMAX\OZ_IMAX.Dal\obj\Debug\OZ_IMAX.Dal.pdb
